@@ -123,6 +123,9 @@ body {
 .education {
   margin: 0 0 10px 0;
 }
+.education>ul{
+  font-size: 14px;
+}
 .diploma {
   font-style: normal;
   font-weight: bold;
